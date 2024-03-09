@@ -17,19 +17,19 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "7082468783:AAG0J2I4AubY6wMJHAfS7ridHkvD3c5klak"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "5192060"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "49c1f662566d88d362dd81d194e28aba"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "12345678"
+      "value": "1825309816"
     }
   },
   "addons": [
